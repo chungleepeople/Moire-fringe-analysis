@@ -4,7 +4,7 @@
 # Zemax simulation model
 
 
-## Zemax simulation parameters
+### Zemax simulation parameters
 ####  Wavelength: 1064nm 
 ####  CCD1 & CCD2 sensor size: 4𝑚𝑚 × 4𝑚𝑚
 ####  Pixel size : 7.825  
@@ -13,10 +13,10 @@
 ####  Analysis Rays: 1000000
 ####  Layout Rays: 20000
 
-# Step 1 line profile  Moire-fringe-analysis
+## Step 1 line profile  Moire-fringe-analysis
 
-# Step 2 Fourier transform  Moire-fringe-analysis
+## Step 2 Fourier transform  Moire-fringe-analysis
 
-# Step 3 low pass filter Moire-fringe-analysis
+## Step 3 low pass filter Moire-fringe-analysis
 
-# Step 4 Inverse Fourier transform Moire-fringe-analysis
+## Step 4 Inverse Fourier transform Moire-fringe-analysis
